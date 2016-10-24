@@ -10,3 +10,5 @@ Check out a tutorial for all options, e.g.
 ## Issues
 Close issues as fast as possible
 
+## Other Projects
+- libtoposplit
